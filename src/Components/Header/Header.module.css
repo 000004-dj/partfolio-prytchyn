@@ -1,9 +1,11 @@
 .Header {
     height: 80px;
-    background: blueviolet;
+    background: rgba(255, 255, 255, 0.9);
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
     width: 100%;
+    position: fixed;
+    top: 0px
 }
